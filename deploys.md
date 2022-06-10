@@ -1,6 +1,6 @@
 # Deployment addresses
 
-The latest version of `@uniswap/v3-core`, `@uniswap/v3-periphery` are deployed to Ethereum mainnet and all testnets
+The latest version of `@cndllabs/v3-core`, `@cndllabs/v3-periphery` are deployed to Ethereum mainnet and all testnets
 at the same addresses.
 
 The source code is verified with Etherscan on all networks, for all contracts except `UniswapV3Pool`.
@@ -8,8 +8,8 @@ We are working on getting the `UniswapV3Pool` contract verified with Etherscan.
 
 These addresses are final and were deployed from these npm package versions:
 
-- `@uniswap/v3-core`: [`1.0.0`](https://github.com/Uniswap/uniswap-v3-core/tree/v1.0.0)
-- `@uniswap/v3-periphery`: [`1.0.0`](https://github.com/Uniswap/uniswap-v3-periphery/tree/v1.0.0)
+- `@cndllabs/v3-core`: [`1.0.0`](https://github.com/Uniswap/uniswap-v3-core/tree/v1.0.0)
+- `@cndllabs/v3-periphery`: [`1.0.0`](https://github.com/Uniswap/uniswap-v3-periphery/tree/v1.0.0)
 
 | Contract                           | Address                                      | Source Code                                                                                                                   |
 | ---------------------------------- | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
