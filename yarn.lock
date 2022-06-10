@@ -40,6 +40,11 @@
     "exec-sh" "^0.3.2"
     "minimist" "^1.2.0"
 
+"@cndllabs/v2-core@1.0.2":
+  "integrity" "sha512-P+sM3wDiyfacf7FpMvEEDmza81dBLwlKyiANMea1FNuAqosW7DbtAgR/ceDvC0VA2f2geh7ZdA7Qe+aDcmTddA=="
+  "resolved" "https://registry.npmjs.org/@cndllabs/v2-core/-/v2-core-1.0.2.tgz"
+  "version" "1.0.2"
+
 "@cndllabs/v3-core@^1.0.2":
   "integrity" "sha512-3msE3SYd3GgoJHlDK49QCNTnBrDLUYh+vq89nrHpa9Xwj9StSRGLTYR3pINtB8LybkofA+dQd649u+/ccirEOw=="
   "resolved" "https://registry.npmjs.org/@cndllabs/v3-core/-/v3-core-1.0.2.tgz"
@@ -1195,11 +1200,6 @@
   "integrity" "sha512-f6UIliwBbRsgVLxIaBANF6w09tYqc6Y/qXdsrbEmXHyFA7ILiKrIwRFXe1yOg8M3cksgVsO9N7yuL2DdCGQKBA=="
   "resolved" "https://registry.npmjs.org/@uniswap/lib/-/lib-4.0.1-alpha.tgz"
   "version" "4.0.1-alpha"
-
-"@uniswap/v2-core@1.0.1":
-  "integrity" "sha512-MtybtkUPSyysqLY2U210NBDeCHX+ltHt3oADGdjqoThZaFRDKwM6k1Nb3F0A3hk5hwuQvytFWhrWHOEq6nVJ8Q=="
-  "resolved" "https://registry.npmjs.org/@uniswap/v2-core/-/v2-core-1.0.1.tgz"
-  "version" "1.0.1"
 
 "@yarnpkg/lockfile@^1.1.0":
   "integrity" "sha512-GpSwvyXOcOOlV70vbnzjj4fW5xW/FdUF6nQEt1ENy7m4ZCczi1+/buVUPAqmGfqznsORNFzUMjctTIp8a9tuCQ=="
